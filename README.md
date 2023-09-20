@@ -1,7 +1,7 @@
 # CSI
 CS-Interview
 
-### 스터디 시간 !
+### ⏰ 스터디 시간 !
 월 : 21시 
 
 ### 📄 스터디 규칙 !	
@@ -32,12 +32,48 @@ CS-Interview
 7 주차 : 운영체제 11/13  
 8 주차 : 운영체제 11/20  
 
+### 👥 팀원 소개
+<div>
+<table>
+  <tbody>
+    <tr>
+        <td align="center"> 팀원 </td>
+        <td align="center"> 팀원 </td>
+        <td align="center"> 팀원 </td>
+        <td align="center"> 팀원 </td>
+        <td align="center"> 팀원 </td>
+    </tr>
+    <tr>
+     <td><img src="./docs/profile/박주희.jpeg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/이민기.jpg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/이희건.png" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/정현목.jpeg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/윤병일.jpg" width="100px;" alt=""/><br> </td>
+
+   </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/YunByungil"> 윤병일 </a></td>
+      <td align="center"><a href="https://github.com/mon0mon"> 이민기 </a></td>
+      <td align="center"><a href="https://github.com/dlrjs2360"> 이희건 </a></td>
+      <td align="center"><a href="https://github.com/Hyunmok-Chung"> 정현목</a></td>
+      <td align="center"><a href="https://github.com/juhee77"> 박주희 </a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### 🔗 참고 사이트
-https://github.com/gyoogle/tech-interview-for-developer
-https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+[https://github.com/gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)  
+[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
 
 ### 🍀 자바/스프링/JPA 🍀
-test
 
-
+<details>
+<summary> template </summary>
+<div markdown="1">
+  
+### 템플릿
+위 아래 빈칸을 두어야 마크다운문법이 적용 됩니당
+  
+</div>
+</details>
