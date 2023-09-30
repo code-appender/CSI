@@ -50,11 +50,11 @@ CS-Interview
         <td align="center"> 팀원 </td>
     </tr>
     <tr>
-     <td><img src="./docs/profile/박주희.jpeg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/윤병일.jpg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/이민기.jpg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/이희건.png" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/정현목.jpeg" width="100px;" alt=""/><br> </td>
-     <td><img src="./docs/profile/윤병일.jpg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/박주희.jpeg" width="100px;" alt=""/><br> </td>
 
 </tr>
     <tr>
@@ -79,7 +79,7 @@ CS-Interview
 
 - [Garbage Collector에 대해 설명해주세요 (java에서 GC는 어떻게 동작하나요)](./Computer%20Science/Java/[Java]%20Garbage%20Collector에%20대해%20설명해주세요/index.md)
 - 제네릭에 대해 설명해주세요
-- == 연산과 Object.Equals() 연산의 차이에 대해서 설명해주세요
+- [== 연산과 Object.Equals() 연산의 차이에 대해서 설명해주세요](./Computer%20Science/Java/[Java]%20==%20연산과%20Object.Equals()%20연산의%20차이에%20대해서%20설명해주세요/index.md)
 - 자바에서 Literal String을 쓰는 것과 new String()으로 생성하는 것의 차이에 대해서 설명해주세요
 - 접근 제어자란 무엇이며 접근 제어자의 종류와 각각의 접근 범위를 설명해주세요
 - [extends implements 차이를 설명해주세요](./Computer%20Science/Java/[Java]%20extends%20implements%20차이를%20설명해주세요/index.md)
