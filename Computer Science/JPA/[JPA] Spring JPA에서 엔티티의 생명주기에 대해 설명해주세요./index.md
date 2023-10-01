@@ -1,4 +1,4 @@
-![JPA 엔티티 생명주기표](./img/JPA 엔티티 생명주기표.png)
+![JPA 엔티티 생명주기표.png](img%2FJPA%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%ED%91%9C.png)
 
 ## 종류
 ### 비영속 
