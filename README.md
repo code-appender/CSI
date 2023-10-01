@@ -52,7 +52,7 @@ CS-Interview
     <tr>
      <td><img src="./docs/profile/윤병일.jpg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/이민기.jpg" width="100px;" alt=""/><br> </td>
-     <td><img src="./docs/profile/이희건.png" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/이희건.jpeg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/정현목.jpeg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/박주희.jpeg" width="100px;" alt=""/><br> </td>
 
