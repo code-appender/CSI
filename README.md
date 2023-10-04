@@ -81,13 +81,13 @@ CS-Interview
 - 제네릭에 대해 설명해주세요
 - [== 연산과 Object.Equals() 연산의 차이에 대해서 설명해주세요](Computer%20Science%2FJava%2F%5BJAVA%5D%20%3D%3D%20%EC%97%B0%EC%82%B0%EA%B3%BC%20Object.Equals%28%29%20%EC%97%B0%EC%82%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - 자바에서 Literal String을 쓰는 것과 new String()으로 생성하는 것의 차이에 대해서 설명해주세요
-- 접근 제어자란 무엇이며 접근 제어자의 종류와 각각의 접근 범위를 설명해주세요
+- [접근 제어자란 무엇이며 접근 제어자의 종류와 각각의 접근 범위를 설명해주세요](./Computer%20Science/Java/[JAVA]%20접근%20제어자란%20무엇이며%20접근%20제어자의%20종류와%20각각의%20접근%20범위를%20설명해주세요/index.md)
 - [extends implements 차이를 설명해주세요](./Computer%20Science/Java/[Java]%20extends%20implements%20차이를%20설명해주세요/index.md)
 - [Record가 무엇인가요?](Computer%20Science%2FJava%2F%5BJava%5D%20Record%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F%2Findex.md)
 
 ### 🎯 JPA
 
-- Spring JPA에서 엔티티의 생명주기에 대해 설명해주세요.
+- [Spring JPA에서 엔티티의 생명주기에 대해 설명해주세요.](./Computer%20Science/JPA/[JPA]%20Spring%20JPA에서%20엔티티의%20생명주기에%20대해%20설명해주세요/)
 - JPA가 무엇인가요?
 
 
