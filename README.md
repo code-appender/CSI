@@ -4,27 +4,27 @@ CS-Interview
 
 ### ⏰ 스터디 시간 !
 
-월 : 21시 
+월 : 21시
 
 ### 📄 스터디 규칙 !
 
 3회 불참시 추방  
 3회 안해오면 추방  
 결석, 지각 미리 말해주기~~  
-좋은 정보 서로 교환하며 취업해요~~ 🙂 
+좋은 정보 서로 교환하며 취업해요~~ 🙂
 
 ### 📣 스터디 방식 !
 
 목요일까지 질문 1,2개 각자 올리기 (구글 문서에), 너무 추천하고 싶은 문제가 있다! (그러면 밑에 추천 문제로 작성해주세요)  
-월요일에 만나면   
+월요일에 만나면  
 전주차 어려운 문제, 응답 못했던 문제를 재응답 (30분)  
 랜덤 한명 발표(봇 추첨 - 바로 직전만 아니면 된다.)  
-한 문제씩 서로 답하면서 정리로 가는 건가.  
+한 문제씩 서로 답하면서 정리로 가는 건가.
 
-월 : 스터디 진행 하면서  질문 작성, 문서 정리(노션과 같이)    
-화,목 : 해당 주차 맡은 질문들 정리해서 깃허브 리드미에 정리 해서 올리기. 프로젝트 이슈 닫기    
-목: 질문 사항 업로드     
-토~월 : 공부    
+월 : 스터디 진행 하면서 질문 작성, 문서 정리(노션과 같이)  
+화,목 : 해당 주차 맡은 질문들 정리해서 깃허브 리드미에 정리 해서 올리기. 프로젝트 이슈 닫기  
+목: 질문 사항 업로드  
+토~월 : 공부
 
 ### 🗓️ 각 주차별 계획
 
@@ -35,7 +35,7 @@ CS-Interview
 5 주차 : 네트워크 10/30  
 6 주차 : 네트워크 11/06  
 7 주차 : 운영체제 11/13  
-8 주차 : 운영체제 11/20  
+8 주차 : 운영체제 11/20
 
 ### 👥 팀원 소개
 
@@ -71,16 +71,16 @@ CS-Interview
 ### 🔗 참고 사이트
 
 [https://github.com/gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)  
-[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
-
+[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 # 📌 Computer Science
+
 ### 🎯 자바
 
 - [Garbage Collector에 대해 설명해주세요 (java에서 GC는 어떻게 동작하나요)](./Computer%20Science/Java/[Java]%20Garbage%20Collector에%20대해%20설명해주세요/index.md)
-- 제네릭에 대해 설명해주세요
+- [제네릭에 대해 설명해주세요](./Computer%20Science/Java/[Java]%20제네릭에%20대해%20설명해주세요/index.md)
 - [== 연산과 Object.Equals() 연산의 차이에 대해서 설명해주세요](Computer%20Science%2FJava%2F%5BJAVA%5D%20%3D%3D%20%EC%97%B0%EC%82%B0%EA%B3%BC%20Object.Equals%28%29%20%EC%97%B0%EC%82%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
-- 자바에서 Literal String을 쓰는 것과 new String()으로 생성하는 것의 차이에 대해서 설명해주세요
+- [자바에서 Literal String을 쓰는 것과 new String()으로 생성하는 것의 차이에 대해서 설명해주세요](<./Computer%20Science/Java/[Java]%20Literal%20String과%20new%20String()%20생성의%20차이를%20설명해주세요/index.md>)
 - [접근 제어자란 무엇이며 접근 제어자의 종류와 각각의 접근 범위를 설명해주세요](./Computer%20Science/Java/[JAVA]%20접근%20제어자란%20무엇이며%20접근%20제어자의%20종류와%20각각의%20접근%20범위를%20설명해주세요/index.md)
 - [extends implements 차이를 설명해주세요](./Computer%20Science/Java/[Java]%20extends%20implements%20차이를%20설명해주세요/index.md)
 - [Record가 무엇인가요?](Computer%20Science%2FJava%2F%5BJava%5D%20Record%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F%2Findex.md)
@@ -89,7 +89,6 @@ CS-Interview
 
 - [Spring JPA에서 엔티티의 생명주기에 대해 설명해주세요.](./Computer%20Science/JPA/[JPA]%20Spring%20JPA에서%20엔티티의%20생명주기에%20대해%20설명해주세요/)
 - JPA가 무엇인가요?
-
 
 # 📌 Web
 
