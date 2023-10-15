@@ -88,8 +88,8 @@ CS-Interview
 - 자바의 동작 방식을 설명해주세요.(JVM 동작 과정에 대해설명해주세요-by juhee)
 - OOP와 AOP의 차이점에 대해 설명해주세요.
 - [call by value, call by reference에 대해 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5Dcall%20by%20value-call%20by%20reference%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
-- 자바의 스트림/람다에 대해서 설명해주세요
-- 자바 static키워드의 생성시기와 소멸시기를 설명해주세요
+- [자바의 스트림/람다에 대해서 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5D%20%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC%20%EB%9E%8C%EB%8B%A4%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [자바 static 키워드의 생성시기와 소멸시기를 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5D%20static%20%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%98%20%EC%83%9D%EC%84%B1%EC%8B%9C%EA%B8%B0%EC%99%80%20%EC%86%8C%EB%A9%B8%EC%8B%9C%EA%B8%B0%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
 
 ### 🎯 JPA
