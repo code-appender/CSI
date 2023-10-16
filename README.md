@@ -50,7 +50,7 @@ CS-Interview
         <td align="center"> 팀원 </td>
     </tr>
     <tr>
-     <td><img src="./docs/profile/윤병일.jpg" width="100px;" alt=""/><br> </td>
+     <td><img src="./docs/profile/윤병일.png" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/이민기.jpg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/이희건.jpeg" width="100px;" alt=""/><br> </td>
      <td><img src="./docs/profile/정현목.jpeg" width="100px;" alt=""/><br> </td>
@@ -85,11 +85,12 @@ CS-Interview
 - [extends implements 차이를 설명해주세요](./Computer%20Science/Java/[Java]%20extends%20implements%20차이를%20설명해주세요/index.md)
 - [Record가 무엇인가요?](Computer%20Science%2FJava%2F%5BJava%5D%20Record%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F%2Findex.md)
 - [equals를 overriding 할 때, hashCode도 재정의 해야하는 이유는?](Computer%20Science%2FJava%2F%5BJava%5Dequals%EB%A5%BC%20overriding%20%ED%95%A0%20%EB%95%8C%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%20%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%2Findex.md)
-- 자바의 동작 방식을 설명해주세요.(JVM 동작 과정에 대해설명해주세요-by juhee)
-- OOP와 AOP의 차이점에 대해 설명해주세요.
 - [call by value, call by reference에 대해 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5Dcall%20by%20value-call%20by%20reference%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [자바의 스트림/람다에 대해서 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5D%20%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC%20%EB%9E%8C%EB%8B%A4%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [자바 static 키워드의 생성시기와 소멸시기를 설명해주세요](Computer%20Science%2FJava%2F%5BJava%5D%20static%20%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%98%20%EC%83%9D%EC%84%B1%EC%8B%9C%EA%B8%B0%EC%99%80%20%EC%86%8C%EB%A9%B8%EC%8B%9C%EA%B8%B0%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [자바의 동작 방식을 설명해주세요.(JVM 동작 과정에 대해설명해주세요-by juhee)](Computer%20Science%2FJava%2F%5BJava%5D%20%C0%DA%B9%D9%C0%C7%20%B5%BF%C0%DB%20%B9%E6%BD%C4%C0%BB%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
+- [OOP와 AOP의 차이점에 대해 설명해주세요.](Computer%20Science%2FJava%2F%5BJava%5D%20OOP%BF%CD%20AOP%C0%C7%20%C2%F7%C0%CC%C1%A1%BF%A1%20%B4%EB%C7%D8%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
+
 
 
 ### 🎯 JPA
