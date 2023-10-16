@@ -1,0 +1,4 @@
+- RESTful
+    - **RE**presentational **S**tate **T**ransfer의 약자로 네트워크 상 자원을 주고받는 규약을 의미합니다.
+    - HTTP URI(Uniform Resource Indentifier)를 통해 자원을 명시합니다.
+    - HTTP Method(GET, POST, PUT, DELETE)를 통해 자원에 대한 CRUD 동작을 말합니다.
