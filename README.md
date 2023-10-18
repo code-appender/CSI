@@ -98,6 +98,18 @@ CS-Interview
 - [Spring JPA에서 엔티티의 생명주시에 대해 설명해주세요](Computer%20Science%2FJPA%2F%5BJPA%5D%20Spring%20JPA%EC%97%90%EC%84%9C%20%EC%97%94%ED%8B%B0%ED%8B%B0%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - JPA가 무엇인가요?
 
+### Database
+- [비관적 락, 낙관적 락에 대해 설명해주세요.]()
+- [트랜잭션 격리 수준에 대해 설명해주세요.]()
+- [정규화가 무엇인지 설명해주세요.]()
+- [인덱스에 대해 설명해주세요.]()
+- [Slow Query에 대해서 설명해주세요]()
+- [SQL과 NoSQL의 차이점에 대해 설명하시오]()
+- [이상현상에 대해 말해주세요](Computer%20Science%2FDatabase%2F%5BDatabase%5D%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [DB 이중화에 대해 말해주세요]()
+- [트랜잭션 ACID에 대해 설명해주세요]()
+
+
 # 📌 Web
 - RESTful 이 뭔지 설명해주세요
 
