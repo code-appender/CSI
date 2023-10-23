@@ -104,7 +104,7 @@ CS-Interview
 - [정규화가 무엇인지 설명해주세요.]()
 - [인덱스에 대해 설명해주세요.](Computer%20Science%2FDatabase%2F%5BDatabase%5D%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [Slow Query에 대해서 설명해주세요]()
-- [SQL과 NoSQL의 차이점에 대해 설명하시오]()
+- [SQL과 NoSQL의 차이점에 대해 설명해주세요](./Computer%20Science/Database/[Database]SQL과%20NoSQL의%20차이점에%20대해%20설명해주세요/index.md)
 - [이상현상에 대해 말해주세요](Computer%20Science%2FDatabase%2F%5BDatabase%5D%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [DB 이중화에 대해 말해주세요]()
 - [트랜잭션 ACID에 대해 설명해주세요]()
