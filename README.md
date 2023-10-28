@@ -111,7 +111,10 @@ CS-Interview
 
 ### 🏛️ 자료구조
 - [힙(heap)이 무엇이고 어디에 사용되는지 말해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20%ED%9E%99%28heap%29%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%94%94%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%EC%A7%80%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [LinkedList 와 ArrayList의 차이점에 대해 설명해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20LinkedList%20%EC%99%80%20ArrayList%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
+### 알고리즘
+- [bfs & dfs 에 대해 설명해주세요](Computer%20Science%2FAlgorithm%2F%5BAlgorithm%5D%20bfs%20%26%20dfs%20%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
 # 📌 Web
 - [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
