@@ -109,6 +109,9 @@ CS-Interview
 - [DB 이중화에 대해 말해주세요]()
 - [트랜잭션 ACID에 대해 설명해주세요](./Computer%20Science/Database/[Database]트랜잭션%20ACID에%20대해%20설명해주세요/index.md)
 
+### 🏛️ 자료구조
+- [힙(heap)이 무엇이고 어디에 사용되는지 말해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20%ED%9E%99%28heap%29%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%94%94%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%EC%A7%80%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+
 
 # 📌 Web
 - [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
