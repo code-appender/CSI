@@ -91,14 +91,12 @@ CS-Interview
 - [자바의 동작 방식을 설명해주세요.(JVM 동작 과정에 대해설명해주세요-by juhee)](Computer%20Science%2FJava%2F%5BJava%5D%20%C0%DA%B9%D9%C0%C7%20%B5%BF%C0%DB%20%B9%E6%BD%C4%C0%BB%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 - [OOP와 AOP의 차이점에 대해 설명해주세요.](Computer%20Science%2FJava%2F%5BJava%5D%20OOP%BF%CD%20AOP%C0%C7%20%C2%F7%C0%CC%C1%A1%BF%A1%20%B4%EB%C7%D8%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 
-
-
 ### 🎯 JPA
 
 - [Spring JPA에서 엔티티의 생명주시에 대해 설명해주세요](Computer%20Science%2FJPA%2F%5BJPA%5D%20Spring%20JPA%EC%97%90%EC%84%9C%20%EC%97%94%ED%8B%B0%ED%8B%B0%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [JPA가 무엇인가요?](./Computer%20Science/JPA/[JPA]JPA가%20무엇인가요/index.md)
 
-### Database
+### 📀 Database
 - [비관적 락, 낙관적 락에 대해 설명해주세요.](./Computer%20Science/Database/[Database]비관적%20락,%20낙관적%20락에%20대해%20설명해주세요/index.md)
 - [트랜잭션 격리 수준에 대해 설명해주세요.](./Computer%20Science/Database/[Database]트랜잭션%20격리%20수준에%20대해%20설명해주세요/index.md)
 - [정규화가 무엇인지 설명해주세요.](./Computer%20Science/Database/[Database]정규화가%20무엇인지%20설명해주세요/index.md)
@@ -113,8 +111,12 @@ CS-Interview
 - [힙(heap)이 무엇이고 어디에 사용되는지 말해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20%ED%9E%99%28heap%29%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%94%94%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%EC%A7%80%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [LinkedList 와 ArrayList의 차이점에 대해 설명해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20LinkedList%20%EC%99%80%20ArrayList%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
-### 알고리즘
+### 🧬 알고리즘
 - [bfs & dfs 에 대해 설명해주세요](Computer%20Science%2FAlgorithm%2F%5BAlgorithm%5D%20bfs%20%26%20dfs%20%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+
+### 🛜 네트워크
+- [TCP와 UDP의 특징과 차이점을 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20TCP%EC%99%80%20UDP%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [JWT 토큰에 대해서 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20JWT%20%ED%86%A0%ED%81%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
 # 📌 Web
 - [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
