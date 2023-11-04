@@ -31,8 +31,8 @@ CS-Interview
 1 주차 : [자바/스프링/JPA [23-09-25]](https://outline.mon0mon.xyz/s/c43e8aa5-e19f-4c0e-b547-eb408efb4726)\
 2 주차 : [자바/스프링/JPA [23-10-09]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/2-javajpa-VYJmbgsFY3)\
 3 주차 : [데이터 베이스 [23-10-16]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/3-1h2Gnn3WhT)\
-4 주차 : 알고리즘 / 자료구조 [23-10-23]\
-5 주차 : 네트워크 [23-10-30]\
+4 주차 : [알고리즘 / 자료구조 [23-10-23]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/4-slsNU1wD5T)\
+5 주차 : [네트워크 [23-10-30]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/5-anBNkwU7VC)\
 6 주차 : 네트워크 [23-11-06]\
 7 주차 : 운영체제 [23-11-13]\
 8 주차 : 운영체제 [23-11-20]
@@ -97,6 +97,7 @@ CS-Interview
 - [JPA가 무엇인가요?](./Computer%20Science/JPA/[JPA]JPA가%20무엇인가요/index.md)
 
 ### 📀 Database
+
 - [비관적 락, 낙관적 락에 대해 설명해주세요.](./Computer%20Science/Database/[Database]비관적%20락,%20낙관적%20락에%20대해%20설명해주세요/index.md)
 - [트랜잭션 격리 수준에 대해 설명해주세요.](./Computer%20Science/Database/[Database]트랜잭션%20격리%20수준에%20대해%20설명해주세요/index.md)
 - [정규화가 무엇인지 설명해주세요.](./Computer%20Science/Database/[Database]정규화가%20무엇인지%20설명해주세요/index.md)
@@ -104,23 +105,36 @@ CS-Interview
 - [Slow Query에 대해서 설명해주세요](./Computer%20Science/Database/[Database]Slow%20Query에%20대해서%20설명해주세요/index.md)
 - [SQL과 NoSQL의 차이점에 대해 설명해주세요](./Computer%20Science/Database/[Database]SQL과%20NoSQL의%20차이점에%20대해%20설명해주세요/index.md)
 - [이상현상에 대해 말해주세요](Computer%20Science%2FDatabase%2F%5BDatabase%5D%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
-- [DB 이중화에 대해 말해주세요]()
+- [DB 이중화에 대해 말해주세요](Computer%20Science%2FDatabase%2F%5BDatabase%5D%EC%9D%B4%EC%A4%91%ED%99%94%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [트랜잭션 ACID에 대해 설명해주세요](./Computer%20Science/Database/[Database]트랜잭션%20ACID에%20대해%20설명해주세요/index.md)
-
+- [B-Tree_B+Tree에 대해 설명해주세요](Computer%20Science%2FDatabase%2F%5BDatabase%5DB-Tree_B%2BTree%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 ### 🏛️ 자료구조
+
 - [힙(heap)이 무엇이고 어디에 사용되는지 말해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20%ED%9E%99%28heap%29%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%94%94%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%EC%A7%80%20%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [LinkedList 와 ArrayList의 차이점에 대해 설명해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20LinkedList%20%EC%99%80%20ArrayList%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [Queue의 동작 원리와 ADT에 대해 설명해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20Queue%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC%EC%99%80%20ADT%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [HashMap과 HashMap의 장단점에 대해 설명해주세요](Computer%20Science%2FData%20Structure%2F%5BData%20Structure%5D%20HashMap%EA%B3%BC%20HashMap%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
 ### 🧬 알고리즘
-- [bfs & dfs 에 대해 설명해주세요](Computer%20Science%2FAlgorithm%2F%5BAlgorithm%5D%20bfs%20%26%20dfs%20%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
+- [bfs & dfs 에 대해 설명해주세요](Computer%20Science%2FAlgorithm%2F%5BAlgorithm%5D%20bfs%20%26%20dfs%20%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [거품정렬, 선택정렬, 삽입정렬을 설명해주세요](Computer%20Science%2FAlgorithm%2F%5BAlgorithm%5D%20%EA%B1%B0%ED%92%88%EC%A0%95%EB%A0%AC%2C%20%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC%2C%20%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 ### 🛜 네트워크
+
 - [TCP와 UDP의 특징과 차이점을 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20TCP%EC%99%80%20UDP%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [JWT 토큰에 대해서 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20JWT%20%ED%86%A0%ED%81%B0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [비대칭키 또는 공개키 암호화 방식은 무엇인가요?](Computer%20Science%2FNetwork%2F%5BNetwork%5D%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4%20%EB%98%90%EB%8A%94%20%EA%B3%B5%EA%B0%9C%ED%82%A4%20%EC%95%94%ED%98%B8%ED%99%94%20%EB%B0%A9%EC%8B%9D%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%2Findex.md)
+- [로드 밸런싱(Load Balancing)에 대해 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5D%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1%28Load%20Balancing%29%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [Blocking I/O & Non-Blocking I/O에 대해 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5DBlocking%20IO%20%26%20Non-Blocking%20IO%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [프록시 서버란 무엇인가 ](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%2Findex.md)
+- [www.naver.com에 접속하는 과정에 대해 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20www.naver.com%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EB%8A%94%20%EA%B3%BC%EC%A0%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [Socket 통신에 대해서 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20Socket%20%ED%86%B5%EC%8B%A0%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 
 # 📌 Web
+
 - [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
 
 ### 🎯 Spring
+
 - [Spring에서 ServletDispatcher의 정의와 역할에 대해서 설명해주세요](./Web/Spring/[Spring]%20Spring에서%20DispatcherServlet의%20정의와%20역할에%20대해서%20설명해주세요/index.md)
 
