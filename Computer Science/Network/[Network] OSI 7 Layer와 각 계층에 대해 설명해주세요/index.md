@@ -9,7 +9,7 @@
 - 흐름을 한눈에 알아보기 쉽고, 사람들이 이해하기 쉽고, 7단계 중 특정한 곳에 이상이 생기면 다른 단계의 장비 및 소프트웨어를 건드리지 않고도 이상이 생긴 단계를 파악할 수 있다.
 - 통신이 일어나는 과정을 단계별로 파악하여 통신 과정 중 특정한 곳에 이상이 생긴 경우 빠르고 쉽게 알아 차리고 해결할 수 있게 하기 위해서 7계층으로 정의 되었다.
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 — 출처 **위키 피디아**
 
 ### OSI 7 Layer
@@ -53,11 +53,11 @@
 —> **A**ll **P**anguin **S**aid **N**obody **D**rink **P**epsi
 
 **참고 이미지**  
-![img.png](img.png)
+![img.png](img/img.png)
 
 
 ### OSI7 계층 vs TCP/IP 4layers 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 
 
 ## TCP/IP란
@@ -81,6 +81,9 @@
    1. 응용 프로그램에서 데이터를 처리하는 계층이다.
    2. FTP, HTTP, SSH 프로토콜
 
+---
+
+### 참고/출처
 
 [JE의 끄적끄적](https://jungeun960.tistory.com/181)  
 [[Network] TCP/IP 와 TCP/IP 4계층이란?](https://wooono.tistory.com/507)
