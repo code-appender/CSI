@@ -135,6 +135,8 @@ CS-Interview
 - [HTTP에 대해 설명해주세요](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20HTTP%BF%A1%20%B4%EB%C7%D8%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 - [OSI 7 Layer와 각 계층에 대해 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20OSI%207%20Layer%EC%99%80%20%EA%B0%81%20%EA%B3%84%EC%B8%B5%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [Web Server와 WAS의 차이점을 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [OAuth란 무엇인가요](./Computer%20Science/Network/[Network]%20OAuth란%20무엇인가요/index.md)
+- [대칭키와 비대칭키의 암호화 방식에 대해 설명해주세요](./Computer%20Science/Network/[Network]%20대칭키와%20비대칭키의%20암호화%20방식에%20대해%20설명해주세요/index.md)
 
 # 📌 Web
 
