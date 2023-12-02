@@ -140,6 +140,12 @@ CS-Interview
 - [CORS에 대해 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20CORS%BF%A1%20%B4%EB%C7%D8%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 - [TCP 흐름 제어와 혼잡 제어에 대해 설명해주세요.](Computer%20Science%2FNetwork%2F%5BNetwork%5D%20TCP%20%C8%E5%B8%A7%C1%A6%BE%EE%BF%CD%20%C8%A5%C0%E2%C1%A6%BE%EE%BF%A1%20%B4%EB%C7%D8%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 
+### 💾 운영체제
+
+- [Context Switching에 대해서 설명해 주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20Context%20Switching%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [페이징 기법에 대해 설명해 주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%EA%B8%B0%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [경쟁 상태(Race Condition)에 대해 설명해 주세요](Computer%20Science%2FOperating%20System%2Frace%20condition%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+
 # 📌 Web
 
 - [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
@@ -147,4 +153,3 @@ CS-Interview
 ### 🎯 Spring
 
 - [Spring에서 ServletDispatcher의 정의와 역할에 대해서 설명해주세요](./Web/Spring/[Spring]%20Spring에서%20DispatcherServlet의%20정의와%20역할에%20대해서%20설명해주세요/index.md)
-
