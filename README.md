@@ -144,7 +144,7 @@ CS-Interview
 
 - [Context Switching에 대해서 설명해 주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20Context%20Switching%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [페이징 기법에 대해 설명해 주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%EA%B8%B0%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
-- [경쟁 상태(Race Condition)에 대해 설명해 주세요](Computer%20Science%2FOperating%20System%2Frace%20condition%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [경쟁 상태에 대해 설명해 주세요](Computer%20Science%2FOperating%20System%2F%5BOS%5D%20Race%20Condition%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [프로세스와 스레드](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%2Findex.md)
 - [멀티 스레드와 멀티 프로세스](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2Findex.md)
 - [운영체제란?](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80%3F%2Findex.md)
