@@ -150,10 +150,11 @@ CS-Interview
 - [운영체제란?](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80%3F%2Findex.md)
 - [캐시와 레지스터의 차이점에 대해 설명해주세요](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [컴퓨터가 메모리보다 큰 프로세스를 실행하는 방법을 설명하시오](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B0%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B3%B4%EB%8B%A4%20%ED%81%B0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4%2Findex.md)
-
+- [메모리 단편화 해결 방법을 설명해주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%8B%A8%ED%8E%B8%ED%99%94%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [프로세스 생성 기법에 대해 설명해주세](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EA%B8%B0%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 # 📌 Web
 
-- [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
+- [RESTful 이 뭔지 설요해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
 
 ### 🎯 Spring
 
