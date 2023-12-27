@@ -34,8 +34,8 @@ CS-Interview
 4 주차 : [알고리즘 / 자료구조 [23-10-23]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/4-slsNU1wD5T)\
 5 주차 : [네트워크 [23-10-30]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/5-anBNkwU7VC)\
 6 주차 : [네트워크 [23-11-06]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/6-Vi6QH32neH)\
-7 주차 : 운영체제 [23-11-13]\
-8 주차 : 운영체제 [23-11-20]
+7 주차 : [운영체제 [23-11-13]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/7-7Y1XXQrNyF)  
+8 주차 : [운영체제 [23-11-20]](https://outline.mon0mon.xyz/s/0654d1d2-6b09-41f9-8c59-8c0cb7545aa4/doc/8-WwJPNJ3Te2)
 
 ### 👥 팀원 소개
 
@@ -152,9 +152,11 @@ CS-Interview
 - [컴퓨터가 메모리보다 큰 프로세스를 실행하는 방법을 설명하시오](Computer%20Science%2FOperating%20System%2F%5BOperation%20System%5D%20%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B0%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B3%B4%EB%8B%A4%20%ED%81%B0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4%2Findex.md)
 - [메모리 단편화 해결 방법을 설명해주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%8B%A8%ED%8E%B8%ED%99%94%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
 - [프로세스 생성 기법에 대해 설명해주세](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EA%B8%B0%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%2Findex.md)
+- [가상 메로리란 무엇이고 어떤 역할을 하나요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%B0%A1%BB%F3%20%B8%DE%B8%F0%B8%AE%B6%F5%20%B9%AB%BE%F9%C0%CC%B0%ED%20%BE%EE%B6%B2%20%BF%AA%C7%D2%C0%BB%20%C7%CF%B3%AA%BF%E4%2Findex.md)
+- [멀티 프로세스와 멀티 스레드에 대해 설명해주세요](Computer%20Science%2FOperating%20System%2F%5BOperating%20System%5D%20%B8%D6%C6%BC%20%C7%C1%B7%CE%BC%BC%BF%CD%20%B8%D6%C6%BC%20%BD%BA%B7%B9%BF%A1%20%B4%EB%C7%EC%20%BC%B3%B8%ED%C7%D8%C1%D6%BC%BC%BF%E4%2Findex.md)
 # 📌 Web
 
-- [RESTful 이 뭔지 설요해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
+- [RESTful 이 뭔지 설명해주세요](./Web/[Web]%20RESTful%20이%20뭔지%20설명해주세요/index.md)
 
 ### 🎯 Spring
 
